@@ -9,19 +9,19 @@ export function Footer() {
     {
       id: 1,
       icon: <FaLinkedin className="w-12 h-12" />,
-      href: "https://www.linkedin.com/in/ketan-sharma-732181333/",
+      href: "https://www.linkedin.com/in/sahil-dhillon-294a05208/",
       label: "LinkedIn Profile"
     },
     {
       id: 2,
       icon: <FaGithub className="w-12 h-12" />,
-      href: "https://github.com/S-Ketan",
+      href: "https://github.com/SahilDhillon0",
       label: "GitHub Profile"
     },
     {
       id: 3,
       icon: <MdEmail className="w-12 h-12" />,
-      href: "mailto:ketan10923@gmail.com",
+      href: "mailto:SahilDhillon609@gmail.com",
       label: "Email Contact"
     }
   ];

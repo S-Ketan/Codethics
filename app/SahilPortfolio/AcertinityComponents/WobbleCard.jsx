@@ -105,7 +105,7 @@ export function WobbleCardDemo() {
             className="absolute -right-10 md:-right-[40%] lg:right-[1%] top-16 object-contain rounded-2xl hidden sm:block"
           />
           <Image
-            src="/KetanAssets/DeliveryExpress/LandingPage.png"
+            src="/KetanAssets/DeliveryExpress/landingPage.png"
             width={500}
             height={500}
             alt="linear demo image"

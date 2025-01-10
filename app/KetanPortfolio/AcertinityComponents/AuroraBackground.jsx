@@ -26,7 +26,7 @@ export function AuroraBackgroundDemo() {
           <div className="font-extralight text-base md:text-4xl text-neutral-200 py-4">
             Front-end Developer
           </div>
-          <a href="/KetanAssets/Ketan-CV.pdf" download={"Ketan's CV"}>
+          <a href="/KetanAssets/KetanCV.pdf" download={"Ketan's CV"}>
           <button className="bg-white rounded-full w-fit :text-black px-4 py-2">
             Download CV
           </button></a>

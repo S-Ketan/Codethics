@@ -266,7 +266,7 @@ export function TimelineDemo() {
               className="rounded-lg object-cover h-20 md:h-44 lg:h-60 w-full shadow-lg"
             />
             <Image
-              src="/KetanAssets/HR12/dashBoard.png"
+              src="/KetanAssets/HR12/dashboard.png"
               alt="Client Project Dashboard"
               width={500}
               height={500}
